@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
+    "reset": "react-native start --reset-cache",
     "run-android": "react-native run-android",
     "ios": "react-native run-ios",
     "test": "jest",
